@@ -1,0 +1,12 @@
+GIT
+trunk base development ==> 	
+=======================================
+echo "# alienapi" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Maramajo/alienapi.git
+git push -u origin master
+
+==================================================
+
